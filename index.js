@@ -1,8 +1,8 @@
 var nombre= "Jean";
-var edad = 29;
-var EresDesarrollador = true;
-const fechaNacimiento = new Date("December 20 1993");
-var libroFavorito = {
+    edad = 29;
+    eresDesarrollador = true;
+    fechaNacimiento = new Date("December 20 1993");
+    libroFavorito = {
         titulo:"La Naúsea",
         autor:"Sartre",
         fechaDePublicación: 1938,
@@ -10,5 +10,5 @@ var libroFavorito = {
     }
 
 
-console.log(libroFavorito);
+console.log(fechaNacimiento);
 
